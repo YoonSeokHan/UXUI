@@ -1,5 +1,7 @@
 package com.conoz.singletour.fragment;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -34,28 +36,28 @@ public class MainFragment extends BaseFragment {
         }
 
         //btnFull btnAmused btnSafe btnAccompany btnMission btnRecommend
-        ImageButton btnFull = (ImageButton)mView.findViewById(R.id.btnFull);
+        Button btnFull = (Button)mView.findViewById(R.id.btnFull);
         btnFull.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                changeFragement(Common.FRAGMENT_FULL, null);
+            public void onClick(View v) { 
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://map.naver.com/index.nhn?menu=route"));
             }
         });
-        ImageButton btnAmused = (ImageButton)mView.findViewById(R.id.btnAmused);
+        Button btnAmused = (Button)mView.findViewById(R.id.btnAmused);
         btnAmused.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 changeFragement(Common.FRAGMENT_AMUSED, null);
             }
         });
-        ImageButton btnSafe = (ImageButton)mView.findViewById(R.id.btnSafe);
+        Button btnSafe = (Button)mView.findViewById(R.id.btnSafe);
         btnSafe.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 changeFragement(Common.FRAGMENT_SAFE, null);
             }
         });
-        ImageButton btnAccompany = (ImageButton)mView.findViewById(R.id.btnAccompany);
+        Button btnAccompany = (Button)mView.findViewById(R.id.btnAccompany);
         btnAccompany.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

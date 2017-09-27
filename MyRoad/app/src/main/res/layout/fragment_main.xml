@@ -18,24 +18,22 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:background="@color/yellow"
+            android:drawableTop="@drawable/mapicon"
             android:paddingTop="30dp"
             android:text="길찾기"
-            android:textSize="60dp"
-            android:drawableTop="@drawable/mapicon"
-            android:background="@color/yellow"
-            />
+            android:textSize="60dp" />
 
         <Button
             android:id="@+id/btnAmused"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:background="@color/red"
+            android:drawableTop="@drawable/food"
             android:paddingTop="30dp"
             android:text="맛집"
-            android:textSize="60dp"
-            android:drawableTop="@drawable/food"
-            android:background="@color/red"
-            />
+            android:textSize="60dp" />
 
     </LinearLayout>
 
