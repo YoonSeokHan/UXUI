@@ -4,33 +4,69 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.conoz.singletour.fragment.MainFragment"
-    android:background="#FFFFFF"
     android:orientation="vertical"
-    android:weightSum="1">
+    android:weightSum="2">
 
-    <ImageButton
-        android:id="@+id/btnFull"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="126dp"
-        app:srcCompat="@drawable/safe" />
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
 
-    <ImageButton
-        android:id="@+id/btnAmused"
-        android:layout_width="400dp"
-        android:layout_height="126dp"
-        app:srcCompat="@drawable/goodeat" />
+        <Button
+            android:id="@+id/btnFull"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="30dp"
+            android:text="길찾기"
+            android:textSize="60dp"
+            android:drawableTop="@drawable/mapicon"
+            android:background="@color/yellow"
+            />
 
-    <ImageButton
-        android:id="@+id/btnSafe"
-        android:layout_width="400dp"
-        android:layout_height="126dp"
-        app:srcCompat="@drawable/location" />
+        <Button
+            android:id="@+id/btnAmused"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="30dp"
+            android:text="맛집"
+            android:textSize="60dp"
+            android:drawableTop="@drawable/food"
+            android:background="@color/red"
+            />
 
-    <ImageButton
-        android:id="@+id/btnAccompany"
-        android:layout_width="380dp"
-        android:layout_height="126dp"
-        app:srcCompat="@drawable/honeyjam" />
+    </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/btnSafe"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="30dp"
+            android:drawableTop="@drawable/tour"
+            android:background="@color/light_green"
+            android:text="관광지"
+            android:textSize="60dp"/>
+
+        <Button
+            android:id="@+id/btnAccompany"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="30dp"
+            android:drawableTop="@drawable/bed"
+            android:text="숙소"
+            android:textSize="60dp"
+            android:background="@color/green"/>
+    </LinearLayout>
 </LinearLayout>
 

@@ -7,4 +7,10 @@
     <color name="view_bg1">#FFE91D63</color>
     <color name="view_bg2">#FFF1C232</color>
     <color name="view_bg3">#FF3C78D8</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#EDC779</color>
+    <color name="red">#D77f6E</color>
+    <color name="green">#73A598</color>
+    <color name="light_green">#a9bc8b</color>
+
 </resources>
