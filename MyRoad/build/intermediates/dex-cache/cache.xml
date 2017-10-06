@@ -2,6 +2,78 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\6f583a824d3e6174f0fcd8f9b48f64b12890da3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_7a3ac26e9c72a4f69e11382408284bfbe308d23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\c96fa003f3608b14aaf59d625cda5d7827065c02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_32f021b44320fec1becf739ec70b9df83be54d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\a1e930bf0b030fe8ffdb76787c754050184e5229\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_8869a9ea0ee23b79655d64fe2cc142bd2a340526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\756690b268d412e80a1166adebeaa63aedf0046d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_a523c43c420055cf119b470f4eff723da331b287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\2218a3542d7a04e5594268d1193095ed18f7aa1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_99af50ac2d5e5d4661ad1ce4fc39401d492002ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\5847face4c8a049a1cd5eee833b3512f04ec1fd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_503db4ef16222aae7bc22fa5925b7f8a7a7aef5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="803e3996689e30651f57f8fcec92466596ba979c">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9e63d65f1bdb553617d7bf67ba74a75b58ac1eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\4ffc079d21f808f7f215320f8782f7d4c73f0d2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_072670e050663474430112713b24594d4c0e85af.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\singletourForStudent20170915\singletour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
@@ -11,6 +83,123 @@
         <dex dex="C:\singletourForStudent20170915\singletour\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_64e82d45081af40e573a6f6861e6780f6fd5c40d\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\06ea0c6b737f5f9896e12a86c62a18fbaa3d5c14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_1ff22f48e4a1904c050a26d5cef75345918a4cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\311c508f7335aa2db1932e6df252ccc924026624\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_d25c8b5806dc4af75ae00f90da3a67d665f418d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\c08766c73eb66b5852b62994cfd56e3fab8cf67d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_4e656d4a484d1143551ce4682f6810375f84e9fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0\constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0_e735d8450cfe2ce69123ae17adad971db7bdfef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\3291ea2e3ed278e99450af08d6b9dae29949edb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_0adf70dc32341d64a5fb0ed37cd2ceacb44a7750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\gson-2.3_6fe78a6d9aaf35a471595446445f60565f1c7bc1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b152a1fc605058d48138e7b468c0ca121697f2f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_cfa7e4f6acdbb5a37cc4fde833ccf160c11355f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\d22c6d790c7f114c8b76083b0004733349b0a986\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_b407efcdaeeb84a2f19f7c8b700f6b13d358e12b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\65c28fdce4e41c4d29dcb40ae8f12bef3da0b3ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_ac660f34ce0d49eb8e904dcd7b0a64e35b8a9a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\8195924399936d1796d60469b0166e050d6c4373\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_a1fc38b66f0dab49149c5bf36b6adcbdd58e7922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\1daafe5c1fbc85adc2f99738610e8cf8041d166b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_9ddc778e8caf86035cc52fce4ff163af4ffd8d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\95e0ead866bad78d9f97d86fa56e22b1e37d1729\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_65667797f06e2564592480f6d7793007ec63bb1b.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\singletourForStudent20170915\singletour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
@@ -18,6 +207,24 @@
         revision="25.0.2"
         sha1="d2f201f3e97c74e65fcaa02feb058c4641ef0a31">
         <dex dex="C:\singletourForStudent20170915\singletour\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_02e62109403511665aa46281ae65648b502e42a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\1579741fd9381a79bef5ceaaf63489c043085050\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_4e8fc5c645910a597f61e2b28698fb4cd19bdd8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbstj\.android\build-cache\e9b1c8785590e29c3b8badcea32c580fd603878c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="C:\Users\dbstj\Desktop\UXUI\MyRoad\app\build\intermediates\pre-dexed\debug\classes_0588a7a0b617c5fbb0fbf4972651bf73606302ba.jar" />
     </item>
 
 </items>
