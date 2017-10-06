@@ -39,7 +39,7 @@ public class MainFragment extends BaseFragment {
         Button btnFull = (Button)mView.findViewById(R.id.btnFull);
         btnFull.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) { 
+            public void onClick(View v) {
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://map.naver.com/index.nhn?menu=route"));
             }
         });
