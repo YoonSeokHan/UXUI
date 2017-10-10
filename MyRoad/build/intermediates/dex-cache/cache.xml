@@ -75,12 +75,201 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\singletourForStudent20170915\singletour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/juheee/.android/build-cache/8c3a7c271e0f057303aeda272bc7d5f40500aba6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56d540f7ce3e927daad24be3463eb5a72c680ba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/171c9d6b0cac113e8bc64abf6ae9d733817db6d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11b87bd7f4798dcc0d6f61185624f6f32ac5d63c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\singletourForStudent20170915\singletour\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_64e82d45081af40e573a6f6861e6780f6fd5c40d\classes.dex" />
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42eef7fc8bf31356902d071ee9a820ae1f98f5e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_a7a842797467e5d93df94d7bec40ed2ec690bbf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/6b9d633a14cd1c9559e0ce09b0b435681025f1f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_266038b8f2a04e27358e1a8a1fdb02d19233b59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="323402d7340efa1dafec750c659870598fa475df">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4ba1f32a01992a8c2a6e56561d1f3434ef2f9ccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/3513c51bdd8e5aa6fb105d61f86c5f23796c9d2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7ce2cf1760db6941dac786771796d8db85bd081/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/1b8271ba03e4321598ad594e47f92235df9d16a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_122c9ce3771181ddc4b9c8dd176586162298edc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/031ce8845995faff1e0f16f9b615915bc2f40143/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_686eb54613486d1949966168eaf149b0a4bbc02f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/ba6049e25745712b0fdd8ae6199f71ea455b86c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_341d21bd3e09d91e3fbec6371c7c7357721357dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_7a50b0c10571821666eee9e82aad22b65fd3aa54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/56a2c43e4c638c4ebba6290b96b0161f6f0eef98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c625be1be5583cb7abac73cc70ab82e1f68aa18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0/constraint-layout-solver-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0_be7291d89f097fff9c2defff8fdb3cdf6be0720f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/ffb642c6758aa9ed571e02c7ab73834e575729ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1c40810c6368624625531200a89a086bb829756/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/9668249b64126d0809a516c41d73bf5e95921bcf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5d3825fe7db2a3e6dc989b603aaa35d9dd46797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/2034be729cf0705ef790960353549c0a6ec5188d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e06562e83681484530d510e739aa6b5c13858fe2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/6d7b0c7dbf34dbb49310a63e00793df83b47f47a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f431626bf9176eb0c80315c697d205643ba4cfac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/db214182c0646c12c9b8f7179dab8b3e5d86d108/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adfd5f0dc6e2c4ea61b5e27c718cc80adbd9aadc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/2534671e6099444d37e5de5323beab15047a6167/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f99899d723298788cbf5c49503bf20da43f46b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/188a588cf3c9ea646b5aaa4df6903d48323fb852/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b54a8e10b3ceabe050ddb295d4baf72e5f369be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/6105d978998deb0ec811add40c16dd301b654345/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b0adb96fbc7cdee690295017b72e71830ec9705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juheee/.android/build-cache/5578ed377c4ebc314300401e8d9a396802abbb73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_608d0a00c3b7a64f522e913214a1875f4137e1a0/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -201,12 +390,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\singletourForStudent20170915\singletour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/Users/juheee/.android/build-cache/f9e8d6eb53ab072eeea2d9ac72d5ac035198c47e/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d2f201f3e97c74e65fcaa02feb058c4641ef0a31">
-        <dex dex="C:\singletourForStudent20170915\singletour\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_02e62109403511665aa46281ae65648b502e42a2\classes.dex" />
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/juheee/MyProject/UXUI/MyRoad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9a35ea1713fc56c518960fbff8444a7c18dd89c/classes.dex" />
     </item>
     <item
         is-multidex="false"

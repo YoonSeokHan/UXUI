@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="자매국밥은 양평에 있는 맛집으로 NSF 미국 위생협회에서 인정한 에버퓨어 1등급 정수된 물을 사용하여 요리하는 곳 입니다. 돼지머리 고기를 기본 베이스로 해서 국밥이나 수육을 만드는 곳. 고기는 누린내가 없으며, 담백하다. 돼지 사골을 푹 고아서 만든 육수는 칼칼하면서도 구수하다. 돼지국밥은 맛이 자극적이지 않으면서, 느끼하지도 않다."
+        android:layout_alignTop="@+id/imageButton6"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_width="229dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/image7"
+        android:layout_marginTop="51dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_width="229dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/image8"
+        android:layout_marginTop="22dp"
+        android:layout_below="@+id/imageButton6" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageButton7"
+        android:text="언양불고기 맛집은 굵게 채 썬 쇠고기를 배즙에 재웠다가 양념장(국간장, 설탕, 다진 파ㆍ마늘, 물, 물엿, 참기름, 후춧가루)을 넣고 버무린 것을 물에 묻힌 한지를 올린 석쇠에서 구워 통깨를 뿌린 것이다." />
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="187dp"
+        android:layout_height="258dp"
+        app:srcCompat="@drawable/image4" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="188dp"
+        android:layout_height="267dp"
+        app:srcCompat="@drawable/image5"
+        android:layout_below="@+id/imageButton4" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:text="성산일출봉 높이 180m. 제주특별자치도 동쪽에 돌출한 성산반도 끝머리에 있다. 중기 홍적세 때 분출된 화산인 성산봉은 커다란 사발모양의 평평한 분화구가 섬 전체에 걸쳐 있다. 3면이 깎아지른 듯한 해식애를 이루며, 분화구 위는 99개의 바위 봉우리가 빙 둘러 서 있다. 그 모습이 거대한 성과 같다 하여 성산이라 하며, 해돋이가 유명하여 일출봉이라고 한다.
+2.64㎢의 넓은 분화구 안에는 풀밭이 펼쳐져 커다란 원형 경기장을 방불케 한다. 이 풀밭은 예로부터 성산리 주민들의 연료 및 초가지붕을 이는 띠의 채초지(採草地)와 방목지(放牧地)로 쓰여져 왔기 때문에 나무는 거의 없고 억새·띠 등의 식물군락을 이루고 있다.
+ " />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageButton5"
+        android:layout_toEndOf="@+id/imageButton5"
+        android:text="한림공원은 한라산(1,950.1m)의 서쪽, 한림읍에 위치한 비경지대이다. 제주시에서 일주도로 해안을 따라 서쪽으로 33㎞지점에 위치한 한림공원은 협재, 금릉 해수욕장의 비경과 아름다운 비양도의 경관을 마주하고 있는 제주도내 최고의 관광명소로 손꼽히고 있다. 10만여 평의 대지에 하늘로 우뚝 뻗은 야자수군락과 울창한 송림으로 둘러싸인 한림공원은 다양한 종류의 꽃과 나무가 사계절 아름다운 경관을 연출하며, 협재 쌍용동굴과 아열대 식물원 그리고 제주석, 분재원, 재암민속마을, 수석전시관, 사파리조류원 등 다양한 볼거리를 함께 갖추고 있다.
+
+" />
+</RelativeLayout>
